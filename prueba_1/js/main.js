@@ -1,6 +1,6 @@
 /* El reto es escribir una función en JavaScript que muestre cuál es el segundo número más grande (en valor) dentro de un array de números.
 
-Lo primero que debemos hacer ante un ejercicio de lógica es planear bien cómo lo vamos a ordenar, de esta forma nuestra solución en código será eficaz y no solo efectiva.*/
+Lo primero que debemos hacer ante un ejercicio de lógica es planear bien cómo lo vamos a ordenar, de esta forma nuestra solución en código será eficaz y no solo efectiva.  mas git*/
 
 var array = [28, 27, 31, 33, 44];
 
