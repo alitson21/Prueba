@@ -1,0 +1,88 @@
+h3{
+    font-size: 1cm;
+   font-family: Arial, Helvetica, sans-serif; 
+   color: darkcyan;
+   text-shadow: 0.5px 1px grey ;
+   margin-left: 2cm;
+}
+
+section{
+    padding-left: 4cm;
+}
+
+.mail{
+   color: maroon; 
+}
+
+.asunto{
+    color: mediumseagreen;
+}
+
+.cuerpo{
+    color: midnightblue;
+}
+
+#mail{
+    width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#asunto{
+    width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#cuerpo_mail{
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#enviar{
+  font-size: 1em;
+  font-weight: bold;
+  width: 50%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  display: block;
+}
+
+#enviar:hover {
+  background-color: #45a049;
+}
+
+#reset{
+  
+  font-size: 1em;
+  font-weight: bold;
+  width: 50%;
+  background-color: rosybrown;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#reset:hover {
+  background-color: red;
+}
